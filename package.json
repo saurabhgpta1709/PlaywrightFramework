@@ -1,0 +1,23 @@
+{
+  "name": "playwrightframework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabhgpta1709/PlaywrightFramework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/saurabhgpta1709/PlaywrightFramework/issues"
+  },
+  "homepage": "https://github.com/saurabhgpta1709/PlaywrightFramework#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^22.20.2"
+  }
+}
