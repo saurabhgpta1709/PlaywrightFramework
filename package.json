@@ -18,6 +18,10 @@
   "homepage": "https://github.com/saurabhgpta1709/PlaywrightFramework#readme",
   "devDependencies": {
     "@playwright/test": "^1.63.0",
-    "@types/node": "^22.20.2"
+    "@types/node": "^22.20.2",
+    "prettier": "3.9.6"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2"
   }
 }
